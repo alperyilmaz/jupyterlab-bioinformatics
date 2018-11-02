@@ -2,4 +2,8 @@
 
 # jupyterlab-bioinformatics
 
-Jupyter notebooks for introductory level bioinformatics
+Jupyter notebooks for introductory level bioinformatics.
+
+Chapters from "Biopython Tutorial and Cookbook" are partially carried here as jupyter notebook.
+
+`files` folder contains example files from biopython/biopython repo
