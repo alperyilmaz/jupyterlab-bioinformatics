@@ -3,3 +3,6 @@ ncbi-blast+
 clustalo
 clustalw
 emboss
+bwa
+samtools
+bedtools
