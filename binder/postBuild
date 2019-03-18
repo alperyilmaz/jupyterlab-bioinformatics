@@ -9,5 +9,5 @@ mkdir $HOME/bin
 mv gatk-4.1.0.0.zip  $HOME/bin/
 cd $HOME/bin/
 unzip gatk-4.1.0.0.zip
-export PATH=$PATH:$HOME/bin/gatk-4.1.0.0
+export PATH=$PATH:$HOME/bin/gatk-4.1.0.0/
 rm gatk-4.1.0.0.zip
