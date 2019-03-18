@@ -6,3 +6,4 @@ emboss
 bwa
 samtools
 bedtools
+oracle-java8-installer
