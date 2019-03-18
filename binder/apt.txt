@@ -6,4 +6,5 @@ emboss
 bwa
 samtools
 bedtools
-oracle-java8-installer
+default-jdk-headless 
+unzip
