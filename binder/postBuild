@@ -11,3 +11,9 @@ cd $HOME/bin/
 unzip gatk-4.1.0.0.zip
 export PATH=$PATH:$HOME/bin/gatk-4.1.0.0/
 rm gatk-4.1.0.0.zip
+
+# environment variable case is really annoying in Jupyter :(
+echo 'export PATH="$PATH:$HOME/bin/gatk-4.1.0.0/"' >> ~/.bashrc
+
+# trying really hard about environment variable problem
+echo 'export PATH="$PATH:$HOME/bin/gatk-4.1.0.0/"' >> ~/.bash_profile
